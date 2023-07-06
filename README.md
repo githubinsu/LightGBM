@@ -23,6 +23,6 @@ To improve accuracy, hyperparameters are adjusted using Bayes search and a confu
 
 ## Results
 
-The model achieved an accuracy score of 80%, indicating that it is a meaningful analysis. Although only 100,000 recent data points were used for this upload, using a year's worth of data could further increase the accuracy score.
+The model achieved an accuracy score of 85%, indicating that it is a meaningful analysis. Although only 100,000 recent data points were used for this upload, using data from a longer period could further increase the accuracy score.
 
 The results can be used for targeting CRM and personalized platforms based on the predicted purchase category of the customer.
