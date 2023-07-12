@@ -6,10 +6,10 @@ The goal of this project is to use the LightGBM algorithm to predict which categ
 ## Process
 The code follows several steps to achieve this goal:
 
-Data Preprocessing: Pivot the data to check the purchase frequency by customer and remove outliers. Encode the category columns using a label encoder and convert datetime data to numeric.
+Data Preprocessing: Pivot the data to check the purchase frequency by customer and remove outliers. Encode the category columns using a label encoder and convert datetime data to numeric. Convert each customer’s purchase history into time series data and pad to the same length.
 
-Data Preprocessing: Convert each customer’s purchase history into time series data and pad to the same length.
 Model Training: Split the data into training and test sets. Train a LightGBM model on the training data.
+
 Model Evaluation: Evaluate the model on the test data. 
 
 ## Results
