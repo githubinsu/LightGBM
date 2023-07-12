@@ -15,4 +15,4 @@ Model Training: Split the data into training and test sets. Train a LightGBM mod
 Model Evaluation: Evaluate the model on the test data. 
 
 ## Results
-The performance of the LightGBM model can be evaluated using metrics such as accuracy. In this case, the model achieved an accuracy score of 85%, indicating that it can predict the expected product of a customer’s purchase with high probability. 
+The performance of the LightGBM model can be evaluated using metrics such as accuracy. In this case, the model achieved an accuracy score over 80%, indicating that it can predict the expected product of a customer’s purchase with high probability. 
