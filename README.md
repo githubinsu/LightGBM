@@ -1,4 +1,6 @@
 # Customer Purchase Prediction through LightGBM
+## Light Gradient Boosting Machine(Tree-based Model)
+Tree-based models are a type of machine learning algorithm that use a series of if-then rules to generate predictions from one or more decision trees. One popular tree-based model is LightGBM, which stands for Light Gradient Boosting Machine. LightGBM is a gradient boosting framework that uses tree-based learning algorithms and is designed to be faster and more efficient than other gradient boosting frameworks.
 
 ## Objective
 The goal of this project is to use the LightGBM algorithm to predict which category of product a customer will purchase on their next visit based on their purchase data. By using the predicted results, we can display the category with the highest purchase probability on the main banner when the customer visits our store again. We can also adjust the UI to be more suitable for the recommended category, thereby increasing customer convenience and purchase conversion.
