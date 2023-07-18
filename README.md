@@ -6,7 +6,8 @@ Tree-based models are a type of machine learning algorithm that use a series of 
 The goal of this project is to use the LightGBM algorithm to predict which category of product a customer will purchase on their next visit based on their purchase data.
 
 ## Data Description
-I have a dataset containing transaction data, where each row represents an individual order and the columns include information such as Order Date, Customer ID, Product Number, Price, Sector, Category, and Subcategory.
+I have utilized publicly available sales data, which has been anonymized and processed for the purpose of analysis.
+The dataset containing transaction data, where each row represents an individual order and the columns include information such as Order Date, Customer ID, Product Number, Price, Sector, Category, and Subcategory.
 
 ## Process
 The code follows several steps to achieve this goal:
